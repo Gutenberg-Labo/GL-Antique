@@ -9,6 +9,8 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 <br />
 
+<img src="https://github.com/Gutenberg-Labo/GL-Antique/blob/main/documents/GL-Antique.svg" width="95%" alt="GL-Antique - Open Source Japanese Font" />
+
 **This font is no longer under development and will not be updated in the future.** The successor font GL-Novantiqua is available.\
 Japanese antique style kana font for manga.\
 It supports hiragana, katakana and symbols. No Chinese letters nor alphabets.
@@ -22,6 +24,8 @@ It supports hiragana, katakana and symbols. No Chinese letters nor alphabets.
 <br />
 
 ## GL-AntiquePlus / GL-アンチックPlus（アンチゴチ体）
+
+<img src="https://github.com/Gutenberg-Labo/GL-Antique/blob/main/documents/GL-AntiquePlus.svg" width="95%" alt="GL-AntiquePlus - Open Source Japanese Font" />
 
 **This font is no longer under development and will not be updated in the future.** The successor font GL-Novantiqua is available.\
 This font is GL-Antique combined with M+ OUTLINE FONT.\
