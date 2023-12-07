@@ -10,7 +10,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 <br />
 
 **This font is no longer under development and will not be updated in the future.** The successor font GL-Novantiqua is available.\
-Japanese antique style kana font.\
+Japanese antique style kana font for manga.\
 It supports hiragana, katakana and symbols. No Chinese letters nor alphabets.
 
 **このフォントは開発を終了しており、今後のアップデートはありません。** 後継フォントはGL-ノバンチカです。\
