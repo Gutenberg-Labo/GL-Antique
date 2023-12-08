@@ -1,6 +1,6 @@
-(C)2003-2009 Das Ende der Wildnis
-(C)2008-2023 Gutenberg Labo, All rights reserved.
-(C)2002-2017 M+ FONTS PROJECT
+Copyright (C) 2003-2009 Das Ende der Wildnis (http://heiden.daynight.jp/),
+Copyright (C) 2008-2023 Gutenberg Labo (https://github.com/Gutenberg-Labo),
+Copyright (C) 2002-2017 M+ FONTS PROJECT (http://mplus-fonts.osdn.jp/), All rights reserved.
 
 These fonts are free softwares.
 Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.
