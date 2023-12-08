@@ -9,7 +9,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 <br />
 
-# GL-Antique / GL-アンチック（アンチック体かな文字・記号）
+## GL-Antique / GL-アンチック（アンチック体かな文字・記号）
 
 <img src="https://github.com/Gutenberg-Labo/GL-Antique/blob/main/documents/GL-Antique.svg" width="95%" alt="GL-Antique - Open Source Japanese Font" />
 
