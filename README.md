@@ -7,7 +7,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 これらのフォントはフリー（自由な）ソフトウエアです。\
 あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。
 
-<br />
+******
 
 ## GL-Antique / GL-アンチック（アンチック体かな文字・記号）
 
@@ -23,7 +23,7 @@ It supports hiragana, katakana and symbols. No Chinese letters nor alphabets.
 ユニコード私用領域に濁点・半濁点付きかな文字および捨て仮名（小書き文字）を網羅させました。\
 欧文・漢字は含まれておりません。お好みの書体の欧文・漢字と合成してお使いください。
 
-<br />
+******
 
 ## GL-AntiquePlus / GL-アンチックPlus（アンチゴチ体）
 
