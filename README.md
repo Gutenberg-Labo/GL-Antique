@@ -1,4 +1,4 @@
-# GL-Antique / GL-アンチック
+# GL-Antique
 
 These fonts are free softwares.\
 Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.\
@@ -8,6 +8,8 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。
 
 <br />
+
+# GL-Antique / GL-アンチック（アンチック体かな文字・記号）
 
 <img src="https://github.com/Gutenberg-Labo/GL-Antique/blob/main/documents/GL-Antique.svg" width="95%" alt="GL-Antique - Open Source Japanese Font" />
 
