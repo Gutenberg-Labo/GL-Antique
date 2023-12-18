@@ -13,11 +13,11 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 <img src="https://github.com/Gutenberg-Labo/GL-Antique/blob/main/documents/GL-Antique.svg" width="95%" alt="GL-Antique - Open Source Japanese Font" />
 
-**This font is no longer under development and will not be updated in the future.** The successor font GL-Novantiqua is available.\
+**This font is no longer under development and will not be updated in the future.** The successor font [GL-NovantiquaMinamoto](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto) is available.\
 Japanese antique style kana font for manga.\
 It supports hiragana, katakana and symbols. No Chinese letters nor alphabets.
 
-**このフォントは開発を終了しており、今後のアップデートはありません。** 後継フォントはGL-ノバンチカです。\
+**このフォントは開発を終了しており、今後のアップデートはありません。** 後継フォントは[GL-ノバンチカ源](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto)です。\
 アンチック体かな文字フォントです。\
 ひらがな・カタカナ・記号等・漫画用外字のみ。記号はすべてオリジナルのデザインまたは規定に沿って描き起こしています。\
 ユニコード私用領域に濁点・半濁点付きかな文字および捨て仮名（小書き文字）を網羅させました。\
@@ -29,10 +29,10 @@ It supports hiragana, katakana and symbols. No Chinese letters nor alphabets.
 
 <img src="https://github.com/Gutenberg-Labo/GL-Antique/blob/main/documents/GL-AntiquePlus.svg" width="95%" alt="GL-AntiquePlus - Open Source Japanese Font" />
 
-**This font is no longer under development and will not be updated in the future.** The successor font GL-Novantiqua is available.\
+**This font is no longer under development and will not be updated in the future.** The successor font [GL-NovantiquaMinamoto](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto) is available.\
 This font is GL-Antique combined with M+ OUTLINE FONT.\
 Special thanks to Mr. Coji Morishita, M+ FONTS PROJECT.
 
-**このフォントは開発を終了しており、今後のアップデートはありません。** 後継フォントはGL-ノバンチカです。\
+**このフォントは開発を終了しており、今後のアップデートはありません。** 後継フォントは[GL-ノバンチカ源](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto)です。\
 GL-AntiqueにM+ FONTSを合成したアンチゴチ体です。\
 収録漢字はM+ TESTFLIGHT 063に準じます。掲載を快諾くださいました M+ フォント作者の coz 様に感謝申し上げます。
